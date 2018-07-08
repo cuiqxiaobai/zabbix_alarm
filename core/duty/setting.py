@@ -1,4 +1,4 @@
 #zabbix
 zURL = "http://zabbix.com"
 zUer = "api"
-zPass = "Aa@1"
+zPass = "Aa@12"
