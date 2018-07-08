@@ -1,4 +1,4 @@
 #zabbix
-zURL = ""
+zURL = "zabbix"
 zUer = ""
 zPass = ""
