@@ -1,0 +1,4 @@
+#zabbix
+zURL = ""
+zUer = ""
+zPass = ""
