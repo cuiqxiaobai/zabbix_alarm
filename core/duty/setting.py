@@ -1,6 +1,0 @@
-#zabbix
-
-
-####nginx
-
-nURL = ""
