@@ -1,0 +1,2 @@
+##zabbix
+zURL = "http://"
