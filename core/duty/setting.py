@@ -1,4 +1,8 @@
 #zabbix
-zURL = "http://zabbix.com"
+zURL = "http://zabbix.ppdaicorp.com"
 zUer = "api"
-zPass = "Aa@12"
+zPass = "Aa@123456"
+
+####nginx
+
+nURL = ""
