@@ -4,8 +4,8 @@ from pyzabbix import ZabbixAPI
 import setting
 print(setting.zURL)
 """zapi is  global variable"""
-zabbix_url = "http://zabbix.ppdaicorp.com"
-username, passwd = 'noc_api', 'noc_api@123'
+zabbix_url =
+username, passwd =
 zapi = ZabbixAPI(zabbix_url)
 zapi.login(username, passwd)
 
